@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 
-function Header(){
-  return <h1>HELLO WORLD!</h1>;
+function Heading(){
+  return <h1>This is an h1 heading</h1>;
 }
 function App() {
-return <Header/>;
+return <Heading/>;
 }
 
 export default App;
